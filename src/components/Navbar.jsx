@@ -17,6 +17,8 @@ function Navbar() {
       </a>
     </nav>
   )
+  
 }
 
 export default Navbar
+
